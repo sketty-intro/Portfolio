@@ -1,1 +1,1 @@
-CodSoft Internship Task 1 - Portfolio
+Internship Task 2 - Portfolio
